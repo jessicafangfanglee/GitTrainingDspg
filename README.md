@@ -1,6 +1,10 @@
 new new on da masterrr
 # git training 
 
+# i love dogs.
+
+## DOGS ARE THE BEST 
+
 
 this is a read me file :3 
 use ' git branch branchname' or git checkout-b branch name to create a branch
