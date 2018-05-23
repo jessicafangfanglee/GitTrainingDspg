@@ -6,3 +6,7 @@ adding nice branch
 
 adding a second nice branch
 
+# conflicts
+
+you can edit same file at same time and nothing terrible will happen. If the edits occur in different locations then I'll just put a new one here. 
+
