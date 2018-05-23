@@ -1,4 +1,8 @@
+<<<<<<< 06076ba014803a0ef3b1a74f872e53251ca3e684
 new new on da masterrr
+=======
+this da new new branch. woof!
+>>>>>>> new new branchy
 # git training 
 
 # i love dogs.
